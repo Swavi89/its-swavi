@@ -1,5 +1,5 @@
-# 💫I'm Swaviman Sahoo (A Full Stack Developer)
-Im currently working on Brandzzy SoftTech Private Limited👋
+# 💫I'm Swaviman Sahoo (A Full Stack Developer)👋
+I currently work at Brandzzy SoftTech Private Limited. 💻
 
 
 # 💻 Tech Stack:
